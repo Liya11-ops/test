@@ -17,3 +17,7 @@
 2. это второй пункт нумерованного списка
 
 А это математическая формула: $\bar{x}=\frac{sum_{i=1}^n x_i}{n}$
+
+[Это сайт нашего университета](https://translated.turbopages.org/proxy_u/en-ru.ru.6ee1e82f-674f82fc-eb3965b6-74722d776562/https/marvelcinematicuniverse.fandom.com/wiki/Winter_Soldier#Personality)
+
+
